@@ -1,0 +1,2 @@
+/usr/bin/ar qc libides-s2.a CMakeFiles/ides-s2.dir/ides-s2.cpp.o
+/usr/bin/ranlib libides-s2.a
